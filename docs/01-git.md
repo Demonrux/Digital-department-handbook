@@ -1,5 +1,7 @@
 ### `docs/01-git.md`
+
 <img src="https://skillicons.dev/icons?i=git" />
+
 # Основы Git и GitHub
 
 ## 1. Что такое Git и зачем он нужен?
