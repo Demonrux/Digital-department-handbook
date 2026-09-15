@@ -136,7 +136,8 @@ dist/
 # Игнорируем логи
 logs/
 *.log
-```
+``` 
+Готовые шаблоны — на [gitignore.io](https://www.toptal.com/developers/gitignore).
 Более подробно о работе с .gitigore можно почитать [тут](https://purpleschool.ru/knowledge-base/git/basics/gitignore).
 
 ## 5. Справочник по базовым командам
