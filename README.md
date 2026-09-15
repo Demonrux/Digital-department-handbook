@@ -9,6 +9,10 @@
 - [`assignments/`](assignments/) — практические задания для новичков
 - [`contributors.md`](contributors.md) — список участников отдела
 
+
+## Материалы
+- [Основы Git](docs/01-git.md)
+- 
 ## Полезные ссылки
 
 - [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru) — интерактивный тренажёр Git
