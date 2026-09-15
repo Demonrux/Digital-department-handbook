@@ -1,4 +1,4 @@
-# <img src="https://skillicons.dev/icons?i=github" /> Задание 1: Добавь себя в команду
+# <img src="https://skillicons.dev/icons?i=github" /> Задание: Добавь себя в команду
 
 **Цель:** пройти полный цикл работы с Git — от клонирования до Pull Request.
 
