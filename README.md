@@ -14,7 +14,7 @@
 - [Основы Git](docs/01-git.md)
 
 ## Таски
-1. [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
+- [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
 ## Полезные ссылки
 
 - [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru) — интерактивный тренажёр Git
