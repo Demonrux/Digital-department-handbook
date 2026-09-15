@@ -17,27 +17,28 @@
 ## Инструкция
 ```bash
 # 1. Клонируй репозиторий
-git clone https://github.com/<ваш\_аккаунт>/digital-department-handbook.git
+git clone https://github.com/<ваш_аккаунт>/digital-department-handbook.git
 cd digital-department-handbook
 
 # 2. Создай ветку
-git checkout -b add-<твоё\_имя>
+git checkout -b add-<твоё_имя_фамилия>
 
 # 3. Открой contributors.md и добавь себя в конец файла
+
 # 4. Проверь, что изменилось
 
 git status
 
 # 5. Сделай коммит
 git add contributors.md
-git commit -m "Add <Твоё Имя> to contributors"
+git commit -m "Add <Твоё Имя_фамилия> to contributors"
 
 # 6. Запушь ветку
-git push origin add-<твоё\_имя>
+git push origin add-<твоё_имя_фамилия>
 
 ```
 
-После этого перейди на GitHub — там появится кнопка \*\*Compare \& pull request\*\*. Нажми её, заполни описание и создай PR.
+После этого перейди на GitHub — там появится кнопка **Compare & pull request**. Нажми её, заполни описание и создай PR.
 
 ---
 
@@ -46,7 +47,7 @@ git push origin add-<твоё\_имя>
 ## Иван Иванов
 - Группа: СГН2-57Б
 - Роль: Frontend
-- GitHub: \[@ivan](https://github.com/ivan)
+- GitHub: [@ivan](https://github.com/ivan)
 - О себе: люблю React и кофе
 ```
 
@@ -62,5 +63,5 @@ git push origin add-<твоё\_имя>
 
 ## Полезные ссылки
 - [docs/01-git.md](../docs/01-git.md) — основы Git
-- [ohshitgit.com/ru](https://ohshitgit.com/ru) — что делать, если сломал
+- [dangitgit.com/ru]((https://dangitgit.com/ru)) — что делать, если сломал
 
