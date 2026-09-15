@@ -159,7 +159,7 @@ logs/
 1. `git pull` — подтяни свежие изменения из `main`.
 2. `git checkout -b my-branch` — создай ветку для своей задачи.
 3. Правь файлы.
-4. `git add .` → `git commit -m "Что сделал"` после этого `git push origin my-branch`.
+4. `git add .` потом создание коммитов `git commit -m "Что сделал"` и после этого  отправка изменений `git push origin my-branch`.
 5. Открой Pull Request на GitHub.
 6. После ревью — merge, и твоя фича в `main`.
 
