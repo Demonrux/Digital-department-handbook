@@ -42,7 +42,7 @@
 
 ### Для Mac OS:
 Открываем терминал и пишем:
-```
+```bash
 #Если установлен Homebrew
 brew install git
 
