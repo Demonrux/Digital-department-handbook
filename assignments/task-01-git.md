@@ -26,12 +26,11 @@ git checkout -b add-<твоё_имя_фамилия>
 # 3. Открой contributors.md и добавь себя в конец файла
 
 # 4. Проверь, что изменилось
-
 git status
 
 # 5. Сделай коммит
 git add contributors.md
-git commit -m "Add <Твоё Имя_фамилия> to contributors"
+git commit -m "Add <твоё_имя_фамилия> to contributors"
 
 # 6. Запушь ветку
 git push origin add-<твоё_имя_фамилия>
