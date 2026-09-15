@@ -53,7 +53,7 @@ git --version
 ```
 ### Linux:
 Открываем терминал и вводим следующую команду.
-```
+```sh
 # Debian или Ubuntu
 sudo apt install git
 
