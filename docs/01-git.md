@@ -1,6 +1,7 @@
 ### `docs/01-git.md`
 
 #   <img src="https://skillicons.dev/icons?i=git" /> Основы Git и GitHub
+<img width="1600" height="840" alt="image" src="https://github.com/user-attachments/assets/07e75ac4-490b-452d-83d3-11b0b196a454" />
 
 ## 1. Что такое Git и зачем он нужен?
 
@@ -111,7 +112,7 @@ git commit -m "<комментарий>"
 ```
 
 Отлично. Вы создали свой первый репозиторий и заполнили его первым commit.
-## О .gitignore
+## 5. О .gitignore
 
 Файл .gitignore — это текстовый файл, в котором вы перечисляете шаблоны файлов и папок, которые Git не должен отслеживать.
 
@@ -140,7 +141,7 @@ logs/
 Готовые шаблоны — на [gitignore.io](https://www.toptal.com/developers/gitignore).
 Более подробно о работе с .gitigore можно почитать [тут](https://purpleschool.ru/knowledge-base/git/basics/gitignore).
 
-## 5. Справочник по базовым командам и рабочему циклу
+## 6. Справочник по базовым командам и рабочему циклу
 
 ## Рабочий цикл (запомни!)
 
