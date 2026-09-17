@@ -15,11 +15,14 @@
 - [`contributors.md`](contributors.md) — список участников отдела
 
 
-## <img src="https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons/outline/book.svg" width="20" /> Материалы
+## <Материалы
+
 - <img src="https://skillicons.dev/icons?i=git" width="20" /> [Основы Git](docs/01-git.md)
 
 ## Таски
+
 - [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
+
 ## Полезные ссылки
 
 - [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru) — интерактивный тренажёр Git
