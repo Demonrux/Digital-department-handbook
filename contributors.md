@@ -14,6 +14,6 @@
 ## Дмитрий Ананьев
 - **Группа**: СГН3-53Б
 - **Роль**: Fullstack / DevOps
-- **GitHub**: Demonrux
+- **GitHub**: [@Demonrux](https://github.com/Demonrux)
 - **О себе**: пишу код и собираю lo-fi плейлисты для отдела
 
