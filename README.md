@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6c7e5adb-81ad-4427-98ce-d4ad3144c867" />
+</p>
+
 # Справочник отдела цифрового развития ССФ СГН
 
 Добро пожаловать! 
@@ -12,7 +16,9 @@
 
 ## Материалы
 - [Основы Git](docs/01-git.md)
-- 
+
+## Таски
+- [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
 ## Полезные ссылки
 
 - [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru) — интерактивный тренажёр Git
