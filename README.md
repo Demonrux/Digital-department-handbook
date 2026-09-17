@@ -2,7 +2,7 @@
   <img src="assets/logo.svg" width="120" alt="Логотип ССФ СГН" />
 </p>
 
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/e6a41feb-3f9d-459c-b232-d51db3ededbf" />
+<img width="760" height="200" alt=" Крутые коты" src="https://github.com/user-attachments/assets/2d94b493-5c6a-47c3-ad82-e652559396af" />
 
 # Справочник отдела цифрового развития ССФ СГН
 
