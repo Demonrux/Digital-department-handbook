@@ -11,7 +11,7 @@
 
 - [`assets/`](assets/) — логотипы и изображения
 - [`assignments/`](assignments/) — практические задания для новичков
-- - [`docs/`](docs/) — обучающие материалы 
+- [`docs/`](docs/) — обучающие материалы 
 - [`contributors.md`](contributors.md) — список участников отдела
 
 
