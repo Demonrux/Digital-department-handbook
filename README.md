@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="assets/logo.svg" width="120" alt="" />
+  <img src="assets/logo.svg" width="120" alt="Логотип ССФ СГН" />
 </p>
 
 # Справочник отдела цифрового развития ССФ СГН
 
 Добро пожаловать! 
+
 Это единый источник знаний нашего отдела, здесь будут храниться правила работы, стек, обучающие материалы, задания и прочая полезная информация. 
 
 ## Направления отдела
@@ -15,16 +16,16 @@
 
 ## Структура
 
+- [`docs/`](docs/) — обучающие материалы
+- [`assignments/`](assignments/) — практические задания
+- [`contributors.md`](contributors.md) — список участников
 - [`assets/`](assets/) — логотипы и изображения
-- [`assignments/`](assignments/) — практические задания для новичков
-- [`docs/`](docs/) — обучающие материалы 
-- [`contributors.md`](contributors.md) — список участников отдела
 
 ## Материалы
 
 - <img src="https://skillicons.dev/icons?i=git" width="20" /> [Основы Git](docs/01-git.md)
 
-## Таски
+## Задания
 
 - [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
 
@@ -32,3 +33,5 @@
 
 - [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru) — интерактивный тренажёр Git
 - [roadmap.sh](https://roadmap.sh/) — карты развития для разработчиков
+- [ohshitgit.com/ru](https://ohshitgit.com/ru) — что делать, если сломал Git
+- [gitignore.io](https://www.toptal.com/developers/gitignore) — генератор .gitignore
