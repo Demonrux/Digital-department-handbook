@@ -9,25 +9,10 @@
 
 ## Направления отдела
 
-<table style="width: 100%;">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="40" />
-      <h3>Веб</h3>
-      <p>Сайт студсовета, API,<br/>фронтенд, деплой</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="40" />
-      <h3>Аналитика</h3>
-      <p>Данные, статистика,<br/>отчёты, дашборды</p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="40" />
-      <h3>Автоматизация</h3>
-      <p>Скрипты,<br/>парсеры, интеграции</p>
-    </td>
-  </tr>
-</table>
+| 🌐 Веб | 📊 Аналитика | 🤖 Автоматизация |
+|:------:|:------------:|:----------------:|
+| <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="40" /> | <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="40" /> | <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="40" /> |
+| **Сайт студсовета, API, фронтенд, деплой** | **Данные, статистика, отчёты, дашборды** | **Скрипты, парсеры, интеграции** |
 
 ## Структура
 
