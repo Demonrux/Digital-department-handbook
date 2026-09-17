@@ -35,3 +35,7 @@
 - [roadmap.sh](https://roadmap.sh/) — карты развития для разработчиков
 - [ohshitgit.com/ru](https://ohshitgit.com/ru) — что делать, если сломал Git
 - [gitignore.io](https://www.toptal.com/developers/gitignore) — генератор .gitignore
+
+<p align="center">
+  <img src="assets/cat.gif" width="200" alt="Котик" />
+</p>
