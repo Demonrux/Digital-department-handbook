@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6c7e5adb-81ad-4427-98ce-d4ad3144c867" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6c7e5adb-81ad-4427-98ce-d4ad3144c867" />
 </p>
 
 # Справочник отдела цифрового развития ССФ СГН
