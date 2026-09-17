@@ -1,4 +1,4 @@
-<img src="assets/cat_banner.jpeg" width="100%" height="160" alt=" Крутые коты" />
+<img src="assets/cat_banner.jpg" width="100%" height="160" alt=" Крутые коты" />
 
 ---
 
