@@ -15,7 +15,7 @@
 - [`contributors.md`](contributors.md) — список участников отдела
 
 
-## <Материалы
+## Материалы
 
 - <img src="https://skillicons.dev/icons?i=git" width="20" /> [Основы Git](docs/01-git.md)
 
