@@ -1,4 +1,4 @@
-<img width="100%" height="160" alt=" Крутые коты" src="https://github.com/user-attachments/assets/2d94b493-5c6a-47c3-ad82-e652559396af" />
+<img src="assets/cat_banner.jpeg" width="100%" height="160" alt=" Крутые коты" />
 
 ---
 
