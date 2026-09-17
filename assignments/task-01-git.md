@@ -62,5 +62,4 @@ git push origin add-<твоё_имя_фамилия>
 
 ## Полезные ссылки
 - [docs/01-git.md](../docs/01-git.md) — основы Git
-- [dangitgit.com/ru](https://dangitgit.com/ru) — что делать, если сломал
-
+- [dangitgit.com/ru](https://dangitgit.com/ru) — что делать, если сломал Git
