@@ -7,13 +7,13 @@
 ## Имя Фамилия
 - **Группа**: СГН3-XXБ (или любая другая)
 - **Роль**: (Пока оставьте пустым)
-- **GitHub**: [@username](https://github.com/username)
+- **GitHub**: [username](https://github.com/username)
 - **О себе**: одна интересная строка
 ```
 
 ## Дмитрий Ананьев
 - **Группа**: СГН3-53Б
 - **Роль**: Fullstack / DevOps
-- **GitHub**: [@Demonrux](https://github.com/Demonrux)
+- **GitHub**: [Demonrux](https://github.com/Demonrux)
 - **О себе**: пишу код и собираю lo-fi плейлисты для отдела
 
