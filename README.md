@@ -9,7 +9,7 @@
 
 ## Направления отдела
 
-<table width="100%">
+<table style="width: 100%;">
   <tr>
     <td align="center" width="33%">
       <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="40" />
