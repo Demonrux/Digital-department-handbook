@@ -11,19 +11,19 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="40" />
+    <td align="center" width="100%">
+      <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="30" />
       <h3>Веб</h3>
       <p>Сайт студсовета, API,<br/>фронтенд, деплой</p>
     </td>
     <td align="center" width="50%">
-      <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="40" />
+      <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="30" />
       <h3>Аналитика</h3>
       <p>Данные, статистика,<br/>отчёты, дашборды</p>
     </td>
     <td align="center" width="50%">
-      <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="40" />
-      <h3>Автоматизация</h3>
+      <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="30" />
+      <h3>Автоматизация</h
       <p>Cкрипты,<br/>парсеры, интеграции</p>
     </td>
   </tr>
