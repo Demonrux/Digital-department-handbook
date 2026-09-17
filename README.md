@@ -9,22 +9,17 @@
 
 ## Направления отдела
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Веб</h3>
-      <p>Сайт студсовета, API, фронтенд, деплой</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Аналитика</h3>
-      <p>Данные, статистика, отчёты, дашборды</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>Автоматизация</h3>
-      <p>Боты, скрипты, парсеры, интеграции</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="48" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="48" />
+</p>
+
+<p align="center">
+  <b>🌐 Веб</b> &nbsp;·&nbsp; <b>📊 Аналитика</b> &nbsp;·&nbsp; <b>🤖 Автоматизация</b>
+</p>
 
 ## Структура
 
