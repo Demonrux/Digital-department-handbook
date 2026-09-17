@@ -44,8 +44,8 @@ git push origin add-<твоё_имя_фамилия>
 ## Шаблон для `contributors.md`
 ```markdown
 ## Иван Иванов
-- Группа: СГН2-57Б
-- Роль: Frontend
+- Группа: СГН3-ХХБ
+- Роль: Frontend (пока можете оставить пустым)
 - GitHub: [@ivan](https://github.com/ivan)
 - О себе: люблю котов и кофе (но котов больше)
 ```
