@@ -16,7 +16,7 @@
 
 
 ## Материалы
-- <img src="https://skillicons.dev/icons?i=git" width="50" heigth="50" /> [Основы Git](docs/01-git.md)
+- <img src="https://skillicons.dev/icons?i=git" width="20" /> [Основы Git](docs/01-git.md)
 
 ## Таски
 - [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
