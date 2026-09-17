@@ -10,7 +10,7 @@
 
 ## Направления отдела
 
-| <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="24" /> **Веб** | <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="24" /> **Аналитика** | <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="24" /> **Автоматизация** |
+| <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="20" /> **Веб** | <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="20" /> **Аналитика** | <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="20" /> **Автоматизация** |
 |:---:|:---:|:---:|
 | Сайт студсовета, API, фронтенд, деплой | Данные, статистика, отчёты, дашборды | Скрипты, парсеры, интеграции |
 
