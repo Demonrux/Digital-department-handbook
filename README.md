@@ -9,10 +9,9 @@
 
 ## Направления отдела
 
-| 🌐 Веб | 📊 Аналитика | 🤖 Автоматизация |
-|:------:|:------------:|:----------------:|
-| <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="40" /> | <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="40" /> | <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="40" /> |
-| **Сайт студсовета, API, фронтенд, деплой** | **Данные, статистика, отчёты, дашборды** | **Скрипты, парсеры, интеграции** |
+| <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="24" /> **Веб** | <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="24" /> **Аналитика** | <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="24" /> **Автоматизация** |
+|:---:|:---:|:---:|
+| Сайт студсовета, API, фронтенд, деплой | Данные, статистика, отчёты, дашборды | Скрипты, парсеры, интеграции |
 
 ## Структура
 
