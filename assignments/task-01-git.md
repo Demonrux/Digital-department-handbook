@@ -1,4 +1,4 @@
-# <img src="https://skillicons.dev/icons?i=github" /> Задание: Добавь себя в команду
+# <img src="https://skillicons.dev/icons?i=github" /> Добавь себя в команду
 
 **Цель:** пройти полный цикл работы с Git — от клонирования до Pull Request.
 
@@ -44,10 +44,10 @@ git push origin add-<твоё_имя_фамилия>
 ## Шаблон для `contributors.md`
 ```markdown
 ## Иван Иванов
-- Группа: СГН2-57Б
-- Роль: Frontend
-- GitHub: [@ivan](https://github.com/ivan)
-- О себе: люблю React и кофе
+- **Группа**: СГН3-ХХБ
+- **Роль**: Frontend (пока можете оставить пустым)
+- **GitHub**: [@ivan](https://github.com/ivan)
+- **О себе**: люблю котов и кофе (но котов больше)
 ```
 
 ---
@@ -56,11 +56,10 @@ git push origin add-<твоё_имя_фамилия>
 - [ ] Ветка создана от `main`
 - [ ] В `contributors.md` есть твоя запись
 - [ ] Коммит с осмысленным сообщением
-- [ ] PR открыт и запрошено ревью у наставника
+- [ ] PR открыт и запрошено ревью
 
 ---
 
 ## Полезные ссылки
 - [docs/01-git.md](../docs/01-git.md) — основы Git
-- [dangitgit.com/ru](https://dangitgit.com/ru) — что делать, если сломал
-
+- [dangitgit.com/ru](https://dangitgit.com/ru) — что делать, если сломал Git
