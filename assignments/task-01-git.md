@@ -47,7 +47,7 @@ git push origin add-<твоё_имя_фамилия>
 - Группа: СГН2-57Б
 - Роль: Frontend
 - GitHub: [@ivan](https://github.com/ivan)
-- О себе: люблю React и кофе
+- О себе: люблю котов и кофе (но котов больше)
 ```
 
 ---
