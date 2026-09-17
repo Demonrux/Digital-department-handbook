@@ -2,6 +2,8 @@
   <img src="assets/logo.svg" width="120" alt="Логотип ССФ СГН" />
 </p>
 
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/e6a41feb-3f9d-459c-b232-d51db3ededbf" />
+
 # Справочник отдела цифрового развития ССФ СГН
 
 Добро пожаловать! 
