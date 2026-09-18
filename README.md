@@ -27,7 +27,7 @@
 
 ## Материалы
 
-- <img src="https://skillicons.dev/icons?i=git" width="20" /> [Основы Git](docs/01-git.md)
+- <img src="https://skillicons.dev/icons?i=git" width="20" /> [Введение в Git](docs/01-git.md)
 
 ## Задания
 
