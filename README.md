@@ -13,31 +13,26 @@
 Это единый источник знаний нашего отдела, здесь будут храниться правила работы, стек, обучающие материалы, задания и прочая полезная информация. 
 
 ## Направления отдела
-
 | <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="20" /> **Веб** | <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="20" /> **Аналитика** | <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="20" /> **Автоматизация** |
 |:---:|:---:|:---:|
 | Сайт студсовета, API, фронтенд, деплой | Данные, статистика, отчёты, дашборды | Скрипты, парсеры, интеграции |
 
 ## Структура
-
 - [`docs/`](docs/) — обучающие материалы
 - [`assignments/`](assignments/) — практические задания
 - [`contributors.md`](contributors.md) — список участников
 - [`assets/`](assets/) — логотипы и изображения
 
 ## Материалы
-
 - <img src="https://skillicons.dev/icons?i=git" width="20" /> [Введение в Git](docs/01-git.md)
 
 ## Задания
-
 - [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
 
 ## Полезные ссылки
-
 - [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru) — интерактивный тренажёр Git
 - [roadmap.sh](https://roadmap.sh/) — карты развития для разработчиков
-- [ohshitgit.com/ru](dangitgit.com) — что делать, если сломал Git
+- [dangitgit.com](https://dangitgit.com/ru) — что делать, если сломал Git
 - [gitignore.io](https://www.toptal.com/developers/gitignore) — генератор .gitignore
 
 <p align="center">
