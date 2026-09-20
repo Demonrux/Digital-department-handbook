@@ -6,6 +6,9 @@
 
 <img width="1024" height="1024" alt="GPT Image 2 5 Sun_20-09-2026_15-35-59-Photoroom" src="https://github.com/user-attachments/assets/b61cec1a-7473-40cf-ae01-84253e3f0331" />
 
+
+<img width="256" height="256" alt="GPT Image 2 5 Sun_20-09-2026_15-35-59 (2)-Photoroom" src="https://github.com/user-attachments/assets/1516c241-c324-445b-a4f6-984c1db94787" />
+
 ---
 
 <p align="center">
