@@ -37,7 +37,7 @@
 
 - [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru) — интерактивный тренажёр Git
 - [roadmap.sh](https://roadmap.sh/) — карты развития для разработчиков
-- [ohshitgit.com/ru](https://ohshitgit.com/ru) — что делать, если сломал Git
+- [ohshitgit.com/ru](dangitgit.com) — что делать, если сломал Git
 - [gitignore.io](https://www.toptal.com/developers/gitignore) — генератор .gitignore
 
 <p align="center">
