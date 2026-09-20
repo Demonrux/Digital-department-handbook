@@ -14,14 +14,18 @@
 
 ---
 
+## Перед началом
+
+Убедись, что ты принял приглашение в репозиторий (письмо от GitHub).
+
 ## Инструкция
 ```bash
 # 1. Клонируй репозиторий
-git clone https://github.com/<ваш_аккаунт>/digital-department-handbook.git
+git clone https://github.com/Demonrux/digital-department-handbook.git
 cd digital-department-handbook
 
 # 2. Создай ветку
-git checkout -b add-<твоё_имя_фамилия>
+git checkout -b add-<твоё_имя-фамилия>
 
 # 3. Открой contributors.md и добавь себя в конец файла
 
@@ -30,14 +34,16 @@ git status
 
 # 5. Сделай коммит
 git add contributors.md
-git commit -m "Add <твоё_имя_фамилия> to contributors"
+git commit -m "Add <Твоё Имя Фамилия> to contributors"
 
 # 6. Запушь ветку
-git push origin add-<твоё_имя_фамилия>
-
+git push origin add-<твоё_имя-фамилия>
 ```
 
-После этого перейди на GitHub — там появится кнопка **Compare & pull request**. Нажми её, заполни описание и создай PR.
+После пуша GitHub покажет ссылку для создания PR прямо в терминале.
+Или перейди в репозиторий на GitHub и нажми **Compare & pull request**.
+
+В заголовке PR напиши: Add <Твоё Имя Фамилия> to contributors.
 
 ---
 
