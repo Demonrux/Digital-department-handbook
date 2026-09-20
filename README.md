@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="assets/logo2.svg" alt="Логотип ССФ СГН" />
+  <img src="assets/logo3.png" alt="Логотип ССФ СГН" />
 </p>
 
 # Справочник отдела цифрового развития ССФ СГН
