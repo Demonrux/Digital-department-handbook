@@ -1,5 +1,11 @@
 <img src="assets/cat_banner.jpg" width="100%" height="210px" alt="Крутые коты" />
 
+
+<img width="1024" height="1024" alt="pixil-frame-0" src="https://github.com/user-attachments/assets/4856c952-2c4f-4bc9-97fa-1af9ebcd31a5" />
+
+
+<img width="1024" height="1024" alt="GPT Image 2 5 Sun_20-09-2026_15-35-59-Photoroom" src="https://github.com/user-attachments/assets/b61cec1a-7473-40cf-ae01-84253e3f0331" />
+
 ---
 
 <p align="center">
