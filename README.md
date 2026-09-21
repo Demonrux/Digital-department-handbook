@@ -30,8 +30,8 @@
 - [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
 
 ## Полезные ссылки
-- [https://metanit.com/c/tutorial](https://metanit.com/c/tutorial) - Руководство по языку программирования С
-- [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru) — интерактивный тренажёр Git
+- [Руководство по языку программирования С](https://metanit.com/c/tutorial)
+- [Интерактивный тренажёр Git](https://learngitbranching.js.org/?locale=ru)
 - [roadmap.sh](https://roadmap.sh/) — карты развития для разработчиков
 - [dangitgit.com](https://dangitgit.com/ru) — что делать, если сломал Git
 - [gitignore.io](https://www.toptal.com/developers/gitignore) — генератор .gitignore
