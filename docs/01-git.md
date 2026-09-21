@@ -125,22 +125,25 @@ git commit -m "<комментарий>"
 ```bash
 git remote add <псевдоним> <URL_адрес>
 ```
- **псевдоним** это псевдоним вашего репозитория (короткое имя), чтобы при дальнейших отправках не писать полностью URL репозитория, обычно в качестве псевдонима использую origin
+ **Псевдоним** вашего репозитория это некое короткое имя, чтобы при дальнейших отправках не писать полностью URL, обычно в качестве псевдонима использую origin
 
 Пример:
 ```bash
-git remote add origin https://github.com/Demonrux/Digital-department-handbook  # связал с репозиторием нашего справочника и задал псевдоним origin
+# связал с репозиторием нашего справочника и задал псевдоним origin
+git remote add origin https://github.com/Demonrux/Digital-department-handbook
 ```
 
 После этого вы можете отправлять коммиты на ваш связанный удаленный репозиторий GitHub, делается это командой:
 ```bash
-git push <URL_репозитория_или_псевдоним> <имя_ветки>
+git push <URL_или_псевдоним> <имя_ветки>
 ```
 
 Пример:
 ```bash
-git push https://github.com/Demonrux/Digital-department-handbook main   # отправить в репозиторий нашего проекта в ветку main
-# Или
+# отправить изменения в репозиторий нашего проекта (по URL) в ветку main
+git push https://github.com/Demonrux/Digital-department-handbook main  
+
+# Или можно по псевдониму (объявили его выше когда связывали - git remote add)
 git push origin main   # обращение по псевдониму
 ```
 
