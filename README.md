@@ -36,6 +36,7 @@
 
 ## Полезные ссылки
 - [https://metanit.com/c](https://metanit.com/c/tutorial) - руководство по языку программирования С
+- [https://www.it-black.ru/programming](https://www.it-black.ru/programming/tpost/99sncmn6a1-strukturnoe-i-modulnoe-programmirovanie) - структурное и модульное программирование
 - [https://learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru) - интерактивный тренажёр Git
 - [roadmap.sh](https://roadmap.sh/) — карты развития для разработчиков
 - [dangitgit.com](https://dangitgit.com/ru) — что делать, если сломал Git
