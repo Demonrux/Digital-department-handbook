@@ -1,7 +1,5 @@
 <img src="assets/cat_banner.jpg" width="100%" height="210px" alt="Крутые коты" />
 
----
-
 <p align="center">
   <img src="assets/logo_digital.png" weigth="220px" height="200px"alt="Логотип цифрового отдела ССФ СГН" />
 </p>
@@ -18,7 +16,6 @@
 3. [Материалы](#материалы)
 4. [Задания](#задания)
 5. [Полезные ссылки](#полезные-ссылки)
----
 
 ## Направления отдела
 | <img src="https://api.iconify.design/tabler:world.svg?color=%234A90D9" width="20" /> **Веб** | <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%234A90D9" width="20" /> **Аналитика** | <img src="https://api.iconify.design/tabler:robot.svg?color=%234A90D9" width="20" /> **Автоматизация** |
