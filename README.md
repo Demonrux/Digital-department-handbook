@@ -30,7 +30,7 @@
 
 ## Материалы
 - <img src="https://skillicons.dev/icons?i=git" width="20" /> [Введение в Git](docs/Git/01-git.md)
-- <img src="https://skillicons.dev/icons?i=C" width="20" /> [Программирование на языке Си](docs/C/README.md)
+- <img src="https://skillicons.dev/icons?i=с" width="20" /> [Программирование на языке Си](docs/C/README.md)
 
 ## Задания
 - [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
