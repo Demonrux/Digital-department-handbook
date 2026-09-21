@@ -192,7 +192,10 @@ git add .           # все файлы
 git commit -m "Add feature"
 
 # Отправить на GitHub
-git push origin feature-name
+git push origin <имя_ветки>
+# origin это стандартный псевдоним вашего удаленного репозитория (можно сделать любой), чтобы постоянно не писать полный путь
+# Пример
+git push https://github.com/Demonrux/Digital-department-handbook main   # отправить в репозиторий нашего проекта в ветку main
 
 # Получить последние изменения
 git pull
