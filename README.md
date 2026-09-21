@@ -29,7 +29,7 @@
 - [`assets/`](assets/) — логотипы и изображения
 
 ## Материалы
-- <img src="https://skillicons.dev/icons?i=git" width="20" /> [Введение в Git](docs/Git/01-git.md)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) [Введение в Git](docs/Git/01-git.md)
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) [Программирование на языке Си](docs/C/README.md)
 
 ## Задания
