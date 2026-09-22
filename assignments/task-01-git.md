@@ -22,7 +22,7 @@
 ## Инструкция
 ```bash
 # 1. Клонируй репозиторий
-git clone https://github.com/Demonrux/digital-department-handbook.git
+git clone https://github.com/Digital-SGN/digital-department-handbook.git
 cd digital-department-handbook
 
 # 2. Создай ветку
