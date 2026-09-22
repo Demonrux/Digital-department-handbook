@@ -1,5 +1,3 @@
-### `docs/01-git.md`
-
 # <img src="https://skillicons.dev/icons?i=git" /> Введение в Git
 
 ## Содержание
