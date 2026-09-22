@@ -1,4 +1,5 @@
-# <img src="https://skillicons.dev/icons?i=с++" /> Программирование на языке С
+# <img width="100" height="120" alt="image" src="https://github.com/user-attachments/assets/ee319972-6908-494f-b646-be2b784438f9" />
+ Программирование на языке С
 
 Материалы по языку программирования на языке C: от первой программы до модульного программирования.
 
