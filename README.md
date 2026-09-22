@@ -1,9 +1,6 @@
 <img src="assets/cat_banner.jpg" width="100%" height="210px" alt="Крутые коты" />
 
-<p align="center">
-  <img src="assets/logo_digital.png" weigth="220px" height="200px"alt="Логотип цифрового отдела ССФ СГН" />
-</p>
-
+<img src="assets/logo_digital.png" weigth="80px" height="70px"alt="Логотип цифрового отдела ССФ СГН" />
 # Справочник отдела цифрового развития ССФ СГН
 
 Добро пожаловать! 
