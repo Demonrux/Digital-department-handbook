@@ -16,4 +16,3 @@
 - **Роль**: Fullstack / DevOps
 - **GitHub**: [Demonrux](https://github.com/Demonrux)
 - **О себе**: пишу код, любою рок и котов :3
-
