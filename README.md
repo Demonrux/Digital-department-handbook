@@ -21,6 +21,7 @@
 ## Материалы
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Введение в Git](docs/Git/01-git.md)
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="16" />  [Программирование на языке Си](docs/C/README.md)
+- ![Algorithms](https://img.shields.io/badge/Algorithms-4B8BBE?style=flat&logo=thealgorithms&logoColor=white) [Алгоритмы и структуры данных](docs/Algorithms/README.md)
 
 ## Задания
 - [Добавь себя в команду](assignments/task-01-git.md) — твой первый Pull Request.
