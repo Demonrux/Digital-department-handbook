@@ -20,7 +20,7 @@
 
 ## Материалы
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Введение в Git](docs/Git/01-git.md)
-- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Соглашение о коммитах]()
+- <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="16" /> [Соглашение о коммитах](doxs/Git/02-conventional-commits.md)
   
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="16" />  [Программирование на языке Си](docs/C/README.md)
   
